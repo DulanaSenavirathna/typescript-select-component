@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typescript-select-component/static/css/main.301615b0.css",
+    "main.js": "/typescript-select-component/static/js/main.a2441fce.js",
+    "index.html": "/typescript-select-component/index.html",
+    "main.301615b0.css.map": "/typescript-select-component/static/css/main.301615b0.css.map",
+    "main.a2441fce.js.map": "/typescript-select-component/static/js/main.a2441fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.301615b0.css",
+    "static/js/main.a2441fce.js"
+  ]
+}
