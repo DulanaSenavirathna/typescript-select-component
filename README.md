@@ -1,4 +1,4 @@
-# Project Peview:
+# Project Preview:
 https://dulanasenavirathna.github.io/typescript-select-component/
 
 # Getting Started with Create React App
